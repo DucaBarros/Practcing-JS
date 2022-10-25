@@ -1,4 +1,4 @@
-//Function inside functions - Hypotenuse
+//Functions inside functions - Hypotenuse
 function square(x) {
   return x * x;
 }
